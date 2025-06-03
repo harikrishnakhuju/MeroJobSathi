@@ -60,7 +60,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-# MeroJobSathi
+# MeroJobSathi ![MeroJobSathi](web/logo.png)
+
 
 🚀 MeroJobSathi – Job Search & Posting Platform
 Description:
@@ -87,3 +88,30 @@ Why This Project Matters:
 
 This project highlights your ability to build scalable, maintainable, and database-driven applications with modern backend and frontend tools. It demonstrates practical knowledge in authentication, role-based systems, database modeling, and dynamic UI development, all of which are critical in real-world job portal applications.
 
+# MeroJobSathi
+
+Job search and creation website built with Laravel, PHP, MySQL, and Tailwind CSS.
+
+## Features
+- User login/signup authentication
+- Job search functionality
+- Posting new jobs
+- Employer-job relationship management
+- Fake user data generation with Laravel factories and seeders
+
+## Screenshots
+
+### Dashboard Page
+![Dashboard Page](web/dashboard.png)
+
+### Login Page
+![Login Page](web/login.png)
+
+### Register Page
+![Register Page](web/register.png)
+
+### Job Search
+![Job Search](web/main.png)
+
+### Post a Job
+![Post Job](web/jobpost.png)
