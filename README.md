@@ -59,4 +59,31 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
 # MeroJobSathi
+
+🚀 MeroJobSathi – Job Search & Posting Platform
+Description:
+
+MeroJobSathi is a full-stack web application developed to simulate a real-world job search and recruitment platform. Built with Laravel (PHP) and styled using Tailwind CSS, the project showcases user authentication, job posting, employer-user relationships, and dynamic job searching functionalities.
+
+Key Features:
+
+🔐 User Authentication: Secure login, registration, and session handling using Laravel’s built-in authentication.
+
+🧑‍💼 Employer & Job Seeker Roles: Role-based features enabling job seekers to search/apply and employers to post/manage job listings.
+
+🔍 Job Search Functionality: Integrated full-text job search that allows users to filter and find relevant opportunities.
+
+🌱 Database Seeding: Automatically generated fake users and job listings using Laravel Factories and Seeders for realistic testing data.
+
+📝 Job Posting System: Logged-in employers can post new job openings with relevant details and categories.
+
+🔗 Relational Database Design: Jobs are linked to employers using Eloquent relationships, ensuring proper data structure and access control.
+
+⚙️ Tech Stack: Laravel, PHP, MySQL, Tailwind CSS.
+
+Why This Project Matters:
+
+This project highlights your ability to build scalable, maintainable, and database-driven applications with modern backend and frontend tools. It demonstrates practical knowledge in authentication, role-based systems, database modeling, and dynamic UI development, all of which are critical in real-world job portal applications.
+
